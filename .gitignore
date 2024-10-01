@@ -31,6 +31,6 @@ npm-debug.log
 
 .DS_Store
 
-# .env
-# .prettierrc
-# .vscode
+.env
+.prettierrc
+.vscode
